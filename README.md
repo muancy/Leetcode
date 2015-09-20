@@ -1,2 +1,4 @@
 # Leetcode
-Testing my github
+This is Munan's Github;
+Recording some of the Leetcode coding.
+
